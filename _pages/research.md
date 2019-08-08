@@ -22,6 +22,8 @@ The 20,000 year-long orbits of little worlds like 2013 SY99 may instead be from
 <a href="https://arxiv.org/abs/1704.01952">diffusion</a>, as I discuss
 <a href="https://theconversation.com/our-discovery-of-a-minor-planet-beyond-neptune-shows-there-might-not-be-a-planet-nine-after-all-75656">here</a>.
 
+Additional <a href="http://www.mso.anu.edu.au/micheleb-cgi-bin/get_citations.py">publications</a>.
+
 My research aims to help build our understanding of the earliest history of our Solar System.
 How did the planets form? Why do we see them in their current positions?
 In the last fifteen years, our story of how our Solar System came to be in its present state
