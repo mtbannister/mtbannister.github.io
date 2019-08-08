@@ -7,17 +7,18 @@ author_profile: true
 
 <!--New first-author paper in ApJS: <br/><i><a href="">OSSOS: VII. 800+ trans-Neptunian objects —
 the complete data release.</a></i> <br/> -->
+
 It's been a long road to discovering 840 minor planets beyond Neptune:
 <a href="Beyond_Neptune.pdf">here's what we found!</a>
 <small>This article appeared in the March Equinox 2018 issue of The Planetary Society's
     member magazine, <i>The Planetary Report</i>.
 Posted with permission.</small>
-</br>
-</br>
+
+
 On its brief passage by Earth, we found the colours of the first interstellar object, 1I/ʻOumuamua,
 are <a href="https://arxiv.org/abs/1711.06214">like those seen in our outer Solar System</a>!
-</br>
-</br>
+
+
 Is there a distant giant planet in our Solar System, yet unseen?
 Here's <a href="https://arxiv.org/abs/1706.05348">what new OSSOS discoveries can say</a>;
 its signature on distant TNOs is <a href="http://arxiv.org/abs/1605.06575">distinctive but very hard to spot</a> in past surveys.
