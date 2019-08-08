@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<object data="../files/cv.pdf" type="application/pdf" width="700px" height="700px">
+<object data="../files/Michele Bannister - cv.pdf" type="application/pdf" width="700px" height="700px">
     <!--
 <embed src="../files/Michele Bannister - cv.pdf">
 -->
