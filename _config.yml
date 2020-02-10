@@ -83,11 +83,11 @@ author:
   name             : "Michele Bannister"
   avatar           : "QUB_headshot_MBannister.jpeg"
   bio              : "Planetary astronomer, poet, hunter of new and strange worlds."
-  location         : "Belfast, UK"
-  employer         : "Queen's University Belfast"
+  location         : "O&tautahi-Christchurch, Aotearoa New Zealand"
+  employer         : "University of Canterbury"
   pubmed           : 
   googlescholar    : 
-  email            : "m.bannister@qub.ac.uk"
+  email            : "michele.bannister@canterbury.ac.nz"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Europe/Belfast # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Pacific/Auckland # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
