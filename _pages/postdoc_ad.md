@@ -20,7 +20,7 @@ International collaborations include the <a href="http://lsst-sssc.github.io/ind
 Observing time and teaching roles, if desired, with UC's Mt John Observatory at Takapō are also available.
 
 The two-year position in Christchurch is available from Feb 2021 onward.
-Salary from July 1 2021 is $75,000 NZD for the first year, and $80k for the second year.
+Salary from July 1 2021 is <span>&#36;</span>75,000 NZD for the first year, and <span>&#36;</span>80k for the second year.
 You must have earned a PhD in a related field by your start date. 
 If currently overseas, the successful candidate will need to meet immigration requirements, as the NZ border is currently on <i><a href="https://www.immigration.govt.nz/about-us/covid-19/border-closures-and-exceptions#who-can-come">highly limited entry</a></i>, including post-arrival quarantine.
 
@@ -28,12 +28,12 @@ The UC planetary group values work-life balance, and is committed to making the 
 People from historically underrepresented groups and communities are particularly encouraged to apply.
 Christchurch | Ōtautahi is a <a href="https://www.canterbury.ac.nz/life/christchurch/">pleasant city</a> with easy access to nearby mountains and coast, and has a <a href="https://www.christchurch.space/">growing aerospace community</a>.
 
-Prospective candidates are encouraged to contact Dr Michele Bannister (michele.bannister@canterbury.ac.nz) for further information or with any questions, with an email title containing 'Interstellar postdoc'.
+Prospective candidates are encouraged to <a href="mailto:michele.bannister@canterbury.ac.nz">contact me</a> for further information or with any questions, with an email title containing 'Interstellar postdoc'.
 
 Prompt application is appreciated; application by Jan 14 is encouraged for full consideration. Interviews will begin from Jan 18.
 
 <b>To apply:</b>
-send the following items to Dr Michele Bannister (michele.bannister@canterbury.ac.nz):
+<a href="mailto:michele.bannister@canterbury.ac.nz">email</a> the following items:
 * A one-page cover letter — noting your thoughts about skillsets or expertise relative to the project focus. 
 * CV — please include both any publications and/or work and achievements that you are enthusiastic about, but that may not easily fit within traditional metrics of academic success
 * A two-page research statement — figures welcome
