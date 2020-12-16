@@ -13,3 +13,5 @@ As a planetary astronomer, I am interested in understanding how they formed, evo
 I use wide-field imaging surveys to discover minor planets, and large telescopes to understand their surfaces.
 
 I'm in the <a href="https://www.canterbury.ac.nz/science/schools-and-departments/phys-chem/">School of Physical and Chemical Sciences Te Kura Matū</a> at the <a href="https://www.canterbury.ac.nz/science/">University of Canterbury</a> in New Zealand.
+
+I'm hiring! See the postdoctoral position <a href="/postdoc_ad">here</a>.
