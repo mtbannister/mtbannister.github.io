@@ -6,9 +6,8 @@ author_profile: true
 ---
 
 
-I welcome applications for a postdoctoral research position to explore questions around the role of <a href="https://arxiv.org/abs/1907.01910">interstellar objects</a> in stellar and planetary <a href="https://arxiv.org/abs/1903.04451">system formation<a>.
-
-A wide range of expertise is relevant, potentially including planetary, stellar, Galactic studies or even high-performance computing; this position is ideal for a researcher looking to branch out into a rapidly developing new area of astronomy.
+I welcome applications for <b>a postdoctoral research position to explore questions around the role of <a href="https://arxiv.org/abs/1907.01910">interstellar objects</a> in stellar and planetary <a href="https://arxiv.org/abs/1903.04451">system formation<a></b>.
+A <i>wide range of expertise is relevant</i>, potentially including planetary, stellar, Galactic studies or even high-performance computing; this position is ideal for a researcher looking to branch out into a rapidly developing new area of astronomy.
 
 The focus of this position will be simulation of the collapse and stellar/planetary system formation of molecular clouds containing a population of interstellar objects. 
 Initial hydrodynamic simulations in the Python-based AMUSE framework have shown remarkably promising results. 
@@ -25,8 +24,8 @@ You must have earned a PhD in a related field by your start date.
 If currently overseas, the successful candidate will need to meet immigration requirements, as the NZ border is currently on <i><a href="https://www.immigration.govt.nz/about-us/covid-19/border-closures-and-exceptions#who-can-come">highly limited entry</a></i>, including post-arrival quarantine.
 
 The UC planetary group values work-life balance, and is committed to making the culture and community of the planetary science field a supportive and welcoming place for all.
-People from historically underrepresented groups and communities are particularly encouraged to apply.
-Christchurch | Ōtautahi is a <a href="https://www.canterbury.ac.nz/life/christchurch/">pleasant city</a> with easy access to nearby mountains and coast, and has a <a href="https://www.christchurch.space/">growing aerospace community</a>.
+People from historically marginalised groups and communities are particularly encouraged to apply.
+Christchurch | Ōtautahi is a <a href="https://www.canterbury.ac.nz/life/christchurch/">pleasant city</a> with easy access to nearby mountains and coast, and has a growing <a href="https://www.christchurch.space/">aerospace community</a>.
 
 Prospective candidates are encouraged to <a href="mailto:michele.bannister@canterbury.ac.nz">contact me</a> for further information or with any questions, with an email title containing 'Interstellar postdoc'.
 
