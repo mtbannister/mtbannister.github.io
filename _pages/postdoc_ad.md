@@ -20,7 +20,7 @@ Observing time and teaching roles, if desired, with UC's Mt John Observatory at 
 
 The two-year position in Christchurch is available from Feb 2021 onward.
 Salary from July 1 2021 is <span>&#36;</span>75,000 NZD for the first year, and <span>&#36;</span>80k for the second year.
-You must have earned a PhD in a related field by your start date. 
+You should have submitted a PhD in a related field by your start date. 
 If currently overseas, the successful candidate will need to meet immigration requirements, as the NZ border is currently on <i><a href="https://www.immigration.govt.nz/about-us/covid-19/border-closures-and-exceptions#who-can-come">highly limited entry</a></i>, including post-arrival quarantine.
 
 The UC planetary group values work-life balance, and is committed to making the culture and community of the planetary science field a supportive and welcoming place for all.
