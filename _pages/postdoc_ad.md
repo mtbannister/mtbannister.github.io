@@ -11,13 +11,14 @@ A <i>wide range of expertise is relevant</i>, potentially including planetary, s
 
 This is a six-year position where you will help build a new approach to planetary science in a country with a rapidly developing and enthusiastic aerospace community. 
 You will be encouraged to grow as a researcher, to pursue independent research, and to mentor more junior colleagues in areas of your skillsets and expertise. 
-We are committed to making the culture and community of the planetary science field a supportive and welcoming place for all. 
-People from historically marginalised groups and communities are particularly encouraged to apply.
 The UC planetary group has wide-ranging interests broadly focussed on Solar System formation and evolution, including both observational and theoretical approaches. 
 International collaborations include the <a href="http://lsst-sssc.github.io/index.html">Vera Rubin Observatory</a>, <a href="http://www.ossos-survey.org/">OSSOS</a>/<a href="https://www.colossos.net/">Colours of OSSOS</a>, <a href="https://www.ssols.space/">SSOLS</a>, JWST's DiSCo-TNOs, and planetary missions including ESA's <a href="https://www.cometinterceptor.space/">Comet Interceptor</a> and NASA's <a href="https://www.nasa.gov/planetarydefense/dart/">DART</a>. 
 UC has a rapidly growing network of space-related research groups across geology, engineering and other disciplines.
 Observing time with UC's Mt John Ōtehīwai Observatory at Takapō is available.
 Teaching is part of the position; for two courses in first-year and second-year undergraduate astronomy (ASTR109 and ASTR211).
+
+We are committed to making the culture and community of the planetary science field a supportive and welcoming place for all. 
+People from historically marginalised groups and communities are particularly encouraged to apply.
 
 The initial focus of the position is intended to be simulation of the collapse and stellar/planetary system formation of molecular clouds containing a population of interstellar objects. 
 Initial hydrodynamic simulations in the Python-based AMUSE framework have shown remarkably promising results. 
