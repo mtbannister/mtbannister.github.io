@@ -27,7 +27,7 @@ This project will springboard established AMUSE code to explore a detailed physi
 The six-year position in Christchurch is available from July 2021 onward. 
 Salary is <span>&#36;</span>75,000 NZD in the first year, increasing in subsequent years.
 You should have submitted a PhD in a related field by your start date. 
-If currently overseas, the successful candidate will need to meet immigration requirements, as the NZ border is currently on <i><a href="https://www.immigration.govt.nz/about-us/covid-19/border-closures-and-exceptions">highly limited entry</a></i>, including post-arrival quarantine.
+If currently overseas, the successful candidate will need to meet immigration requirements, as the NZ border is currently on <a href="https://www.immigration.govt.nz/about-us/covid-19/border-closures-and-exceptions">limited entry</a>, including post-arrival quarantine.
 
 The UC planetary group values work-life balance; NZ annual holidays run mid Dec to mid Jan, and we go to the beach or mountains then (goodbye email).
 Christchurch | Ōtautahi is a <a href="https://www.canterbury.ac.nz/life/christchurch/">pleasant city</a> with easy access to nearby mountains and coast, and has a growing <a href="https://www.christchurch.space/">aerospace community</a>.
