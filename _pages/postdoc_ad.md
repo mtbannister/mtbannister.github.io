@@ -18,7 +18,8 @@ UC has a rapidly growing network of space-related research groups across geology
 Observing time with UC's Mt John Ōtehīwai Observatory at Takapō is available.
 Teaching is part of the position; into first-year and second-year undergraduate astronomy (ASTR109 astro/planetary for all degrees, and ASTR211 observational astronomy, using facilities at Mt John).
 
-I consider the active practise of Te Tiriti critical to creating a scientific future for Aotearoa New Zealand, and our group is committed to making the culture and community of the planetary science field a supportive and welcoming place for all. 
+I consider the active practise of Te Tiriti critical to creating a scientific future for Aotearoa New Zealand.
+Our group is committed to making the culture and community of the planetary science field a supportive and welcoming place for all. 
 People from historically marginalised groups and communities are particularly encouraged to apply.
 Candidates who whakapapa to te ao Māori who currently work in related fields should be aware that the scope of the position is highly flexible; please discuss with me.
 
