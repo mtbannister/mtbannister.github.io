@@ -15,7 +15,7 @@ The UC planetary group has wide-ranging interests broadly focussed on Solar Syst
 International collaborations include the <a href="http://lsst-sssc.github.io/index.html">Vera Rubin Observatory</a>, <a href="http://www.ossos-survey.org/">OSSOS</a>/<a href="https://www.colossos.net/">Colours of OSSOS</a>, <a href="https://www.ssols.space/">SSOLS</a>, JWST's DiSCo-TNOs, and planetary missions including ESA's <a href="https://www.cometinterceptor.space/">Comet Interceptor</a> and NASA's <a href="https://www.nasa.gov/planetarydefense/dart/">DART</a>. 
 UC has a rapidly growing network of space-related research groups across geology, engineering and other disciplines.
 Observing time with UC's Mt John Ōtehīwai Observatory at Takapō is available.
-Teaching is part of the position; for two courses in first-year and second-year undergraduate astronomy (ASTR109 and ASTR211).
+Teaching is part of the position; into first-year and second-year undergraduate astronomy (ASTR109 and ASTR211).
 
 We are committed to making the culture and community of the planetary science field a supportive and welcoming place for all. 
 People from historically marginalised groups and communities are particularly encouraged to apply.
@@ -29,7 +29,7 @@ Salary is <span>&#36;</span>75,000 NZD in the first year, increasing in subseque
 You should have submitted a PhD in a related field by your start date. 
 If currently overseas, the successful candidate will need to meet immigration requirements, as the NZ border is currently on <a href="https://www.immigration.govt.nz/about-us/covid-19/border-closures-and-exceptions">limited entry</a>, including post-arrival quarantine.
 
-The UC planetary group values work-life balance; NZ annual holidays run mid Dec to mid Jan, and we go to the beach or mountains then (goodbye email).
+The UC planetary group values work-life balance; NZ annual holidays run mid Dec to mid Jan, head to the beach or mountains then (goodbye email).
 Christchurch | Ōtautahi is a <a href="https://www.canterbury.ac.nz/life/christchurch/">pleasant city</a> with easy access to nearby mountains and coast, and has a growing <a href="https://www.christchurch.space/">aerospace community</a>.
 
 Prospective candidates are encouraged to <a href="mailto:michele.bannister@canterbury.ac.nz">contact me</a> for further information or with any questions, with an email title containing 'Interstellar postdoc'.
