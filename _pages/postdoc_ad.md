@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-I welcome applications for <b>a research position to explore questions around the role of <a href="https://arxiv.org/abs/1907.01910">interstellar objects</a> in stellar and planetary <a href="https://arxiv.org/abs/1903.04451">system formation</a>.</b>
+I welcome applications for <b>a research position to explore questions around the role of <a href="https://arxiv.org/abs/1907.01910">interstellar objects</a> in planetary <a href="https://arxiv.org/abs/1903.04451">system formation</a>.</b>
 A <i>wide range of expertise is relevant</i>, potentially including planetary, stellar, or even Galactic studies; this position is ideal for a researcher looking to branch out into a rapidly developing new area of astronomy and planetary science.
 
 This is a six-year postdoctoral and teaching position where you will help build a new approach to planetary science in a country with a rapidly developing and enthusiastic aerospace community and new Space Agency. 
