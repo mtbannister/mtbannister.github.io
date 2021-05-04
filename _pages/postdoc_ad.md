@@ -10,18 +10,18 @@ I welcome applications for <b>a research position to explore questions around th
 A <i>wide range of expertise is relevant</i>, potentially including planetary, stellar, or even Galactic studies; this position is ideal for a researcher looking to branch out into a rapidly developing new area of astronomy and planetary science.
 
 This is a six-year postdoctoral and teaching position where you will help build a new approach to planetary science in a country with a rapidly developing and enthusiastic aerospace community and new Space Agency. 
-You will be encouraged to grow as a researcher, to pursue independent research, and to mentor more junior colleagues in areas of your skillsets and expertise. 
+You will be encouraged to grow and flourish as a researcher, to pursue independent research, and to mentor more junior colleagues in areas of your skillsets and expertise. 
 The UC planetary group has wide-ranging interests broadly focussed on Solar System formation and evolution, including both observational and theoretical approaches. 
-International collaborations include the <a href="http://lsst-sssc.github.io/index.html">Vera Rubin Observatory</a>, <a href="http://www.ossos-survey.org/">OSSOS</a>/<a href="https://www.colossos.net/">Colours of OSSOS</a>, <a href="https://www.ssols.space/">SSOLS</a>, JWST's DiSCo-TNOs. 
+International collaborations include the <a href="http://lsst-sssc.github.io/index.html">Vera Rubin Observatory</a>, <a href="http://www.ossos-survey.org/">OSSOS</a>/<a href="https://www.colossos.net/">Colours of OSSOS</a>, <a href="https://www.ssols.space/">SSOLS</a>, and JWST's DiSCo-TNOs. 
 Current planetary missions include ESA's <a href="https://www.cometinterceptor.space/">Comet Interceptor</a> and NASA's <a href="https://www.nasa.gov/planetarydefense/dart/">DART</a>; the group are developing capability toward NZ's first planetary mission. 
 UC has a rapidly growing network of space-related research groups across geology, engineering and other disciplines.
 Observing time with UC's Mt John Ōtehīwai Observatory at Takapō is available.
 Teaching is part of the position; into first-year and second-year undergraduate astronomy (ASTR109 astro/planetary for all degrees, and ASTR211 observational astronomy, using facilities at Mt John).
 
 I consider the active practise of Te Tiriti critical to creating a scientific future for Aotearoa New Zealand.
-Our group is committed to making the culture and community of the planetary science field a supportive and welcoming place for all, and to development of our required <a href="http://www.criticandconscience.org.nz/">critic and conscience</a> role. 
+Our group is committed to making the culture and community of the planetary science field a supportive and welcoming place for all, and to development of our <a href="http://www.criticandconscience.org.nz/">critic and conscience</a> role. 
 People from historically marginalised groups and communities are particularly encouraged to apply.
-Candidates who whakapapa to te ao Māori who currently work in related or adjacent fields should be aware that the scope of the position is highly flexible; please discuss with me.
+Candidates who whakapapa to te ao Māori who currently work in adjacent fields should be aware that the scope of the position is highly flexible; please discuss with me.
 
 The initial focus of the position is intended to be simulation of the collapse and stellar/planetary system formation of molecular clouds containing a population of interstellar objects. 
 Initial hydrodynamic simulations in the Python-based AMUSE framework have shown remarkably promising results. 
@@ -32,8 +32,8 @@ Salary is <span>&#36;</span>75,000 NZD in the first year, increasing in subseque
 You should have submitted a PhD in a related field by your start date. 
 If currently overseas, the successful candidate will need to meet immigration requirements, as the NZ border is currently on <a href="https://www.immigration.govt.nz/about-us/covid-19/border-closures-and-exceptions">limited entry</a>, including post-arrival quarantine.
 
-The UC planetary group values work-life balance; NZ annual holidays run mid Dec to mid Jan and we are offline during that time.
-Christchurch | Ōtautahi is a <a href="https://www.canterbury.ac.nz/life/christchurch/">pleasant city</a> with easy access to nearby mountains and coast, and has a growing <a href="https://www.christchurch.space/">aerospace community</a>, in a country with a successful elimination strategy to <a href="https://covid19.govt.nz/">Covid-19</a>.
+The UC planetary group values work-life balance; NZ annual holidays run mid Dec to mid Jan and we go offline during that time.
+Christchurch | Ōtautahi is a <a href="https://www.canterbury.ac.nz/life/christchurch/">pleasant city</a> with easy access to nearby mountains and coast, and has a growing <a href="https://www.christchurch.space/">aerospace community</a>, in a country with a successful elimination strategy for <a href="https://covid19.govt.nz/">Covid-19</a>.
 
 Prospective candidates are encouraged to <a href="mailto:michele.bannister@canterbury.ac.nz">contact me</a> for further information or with any questions, with an email title containing 'Interstellar postdoc'.
 Applications are requested by June 12 NZ timezone.
