@@ -21,7 +21,7 @@ Teaching is part of the position; into first-year and second-year undergraduate 
 I consider the active practise of Te Tiriti critical to creating a scientific future for Aotearoa New Zealand.
 Our group is committed to making the culture and community of the planetary science field a supportive and welcoming place for all. 
 People from historically marginalised groups and communities are particularly encouraged to apply.
-Candidates who whakapapa to te ao Māori who currently work in related fields should be aware that the scope of the position is highly flexible; please discuss with me.
+Candidates who whakapapa to te ao Māori who currently work in related or adjacent fields should be aware that the scope of the position is highly flexible; please discuss with me.
 
 The initial focus of the position is intended to be simulation of the collapse and stellar/planetary system formation of molecular clouds containing a population of interstellar objects. 
 Initial hydrodynamic simulations in the Python-based AMUSE framework have shown remarkably promising results. 
