@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Postdoctoral position in planetary science/Solar System studies/star formation"
+title: "Research position in planetary science/Solar System studies/star formation"
 permalink: /postdoc_ad/
 author_profile: true
 ---
