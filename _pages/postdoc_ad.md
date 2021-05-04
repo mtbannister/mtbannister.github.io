@@ -33,7 +33,7 @@ You should have submitted a PhD in a related field by your start date.
 If currently overseas, the successful candidate will need to meet immigration requirements, as the NZ border is currently on <a href="https://www.immigration.govt.nz/about-us/covid-19/border-closures-and-exceptions">limited entry</a>, including post-arrival quarantine.
 
 The UC planetary group values work-life balance; NZ annual holidays run mid Dec to mid Jan and people head to the beach or mountains then (goodbye email).
-Christchurch | Ōtautahi is a <a href="https://www.canterbury.ac.nz/life/christchurch/">pleasant city</a> with easy access to nearby mountains and coast, and has a growing <a href="https://www.christchurch.space/">aerospace community</a>.
+Christchurch | Ōtautahi is a <a href="https://www.canterbury.ac.nz/life/christchurch/">pleasant city</a> with easy access to nearby mountains and coast, and has a growing <a href="https://www.christchurch.space/">aerospace community</a>, in a country with a successful elimination strategy to <a href="https://covid19.govt.nz/">Covid-19</a>.
 
 Prospective candidates are encouraged to <a href="mailto:michele.bannister@canterbury.ac.nz">contact me</a> for further information or with any questions, with an email title containing 'Interstellar postdoc'.
 Applications are requested by June 12 NZ timezone.
