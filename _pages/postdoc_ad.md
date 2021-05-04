@@ -39,7 +39,7 @@ Prospective candidates are encouraged to <a href="mailto:michele.bannister@cante
 Applications are requested by June 12 NZ timezone.
 
 <b>To apply:</b>
-<a href="mailto:michele.bannister@canterbury.ac.nz">email</a> the following items:
+<a href="mailto:michele.bannister@canterbury.ac.nz">email</a> the following items (as a single pdf):
 * A one-page cover letter — noting your thoughts about skillsets or expertise relative to the project focus. 
 * CV — please include any publications, teaching experience, and/or work and achievements that you are enthusiastic about, but that may not easily fit within traditional metrics of academic success. 
 * A two-page research statement — figures welcome
