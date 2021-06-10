@@ -38,7 +38,6 @@ Christchurch | Ōtautahi is a <a href="https://www.canterbury.ac.nz/life/christc
 Prospective candidates are encouraged to <a href="mailto:michele.bannister@canterbury.ac.nz">contact me</a> for further information or with any questions, with an email title containing 'Interstellar postdoc'.
 
 (<b>deadline updated</b> - will be extended by a few weeks - update coming shortly)
-<!--->Applications are requested by June 12 NZ timezone.</--->
 
 <b>To apply:</b>
 <a href="mailto:michele.bannister@canterbury.ac.nz">email</a> the following items (as a single pdf):
